@@ -30,3 +30,21 @@ Build a full ML lifecycle pipeline including:
 ## Architecture
 
 The project follows a production-oriented ML architecture:
+
+
+Deployment strategies explored:
+
+- Canary deployment
+- Blue-Green deployment
+- Shadow deployment
+- A/B testing
+
+## Dataset
+
+Credit Card Fraud Detection Dataset  
+Source: Kaggle
+
+## Objective
+
+The goal is to simulate how ML systems are built and maintained in real companies, focusing on scalability, reproducibility, and monitoring.
+
